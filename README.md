@@ -4,7 +4,8 @@ Front End
 HTML,CSS,JS,JSP
 
 Back End 
-Java
+Java - Eclipse
+MySQL - PhpMyAdmin
 
 
 Contributor 
